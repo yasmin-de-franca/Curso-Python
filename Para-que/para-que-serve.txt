@@ -34,3 +34,9 @@ Se existe uma mensagem que tem que ser exbida com outra, acrescenta-se o sinal d
 Váriaveis em Python somente em letras minusculas. Toda váriavel é um objeto.
 Print - escreva
 Input - leia
+
+crie um script que leia o nome de uma pessoa e mostre uma mensagem de boa vindas com o valor digitado.
+
+crie um script que leia o dia, mês e ano de nascimento de uma pessoa e mostre o valor formatado na tela
+
+crie um script que leia dois números e tente fazer a soma entre eles
