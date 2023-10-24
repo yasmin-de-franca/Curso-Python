@@ -1,0 +1,36 @@
+_Python é uma linguagem de propósito geral;
+_Simples, fácil e intuitiva.;
+_Multiplataforma.;
+_Batteries Incluided (baterias incluidas - já vem com a maioria das coisas intasladas);
+_Linguagem livre;
+_Linguagem organizada;
+_Orientada a objetos;
+_Muitas bibliotecas.
+
+
+Principais áreas:
+°Inteligência artificial
+°Biotecnologia
+°Computação 3D
+
+
+COMO FUNCIONA?
+Linguagens são interpretadores.
+
+
+Teórica:
+Mensagem
+
+todos os comandos são funções, e toda função tem que ter parentêses.
+
+Números não necessita de aspas, pois são usados primordialmente para fazer calculos.
+
+Mensagens são utilizadas primordialmente para exibir mensagens na tela.
+
+Print = para mostrar na tela
+
+Se existe uma mensagem que tem que ser exbida com outra, acrescenta-se o sinal de + ou ,.
+
+Váriaveis em Python somente em letras minusculas. Toda váriavel é um objeto.
+Print - escreva
+Input - leia
