@@ -8,3 +8,5 @@ bool = boleanos/lógicos (True ou False)
 str = carectere/string ('')
 
 {}'.format()
+
+faça um programa que leia algo pelo teclado e mostre na tela seu tipo pritivo e todas as informações possíveis sobre ele. (is)
