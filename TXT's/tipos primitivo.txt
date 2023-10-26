@@ -1,0 +1,10 @@
+tipo primitivo int para transformar strings em números.
+n1 = int(input('Digite um número:'))
+
+existem cinco tipos primitivos
+int = inteiros
+float = reais/ponto flutuante (numeros quebrados)
+bool = boleanos/lógicos (True ou False)
+str = carectere/string ('')
+
+{}'.format()
