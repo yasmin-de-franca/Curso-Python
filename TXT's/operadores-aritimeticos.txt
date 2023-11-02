@@ -1,0 +1,45 @@
++ adição
+- subtração
+* multiplicação
+/ divisão
+** potência
+// divisão inteira
+% resto da divisão
+
+
+*= recebe
+*== igual
+
+ORDEM DE PRECEDÊNCIA:
+()
+**
+* / // %
++ - 
+
+
+005
+Faça um programa que leia um número intero e mostre seu sucessor e seu antecessor.
+
+006
+crie um algoritimo que leia um número e mostre seu dobro, seu triplo e a raiz quadrada.
+
+007
+desenvolva um programa que leia duas notas de um aluno, calcule e mostre sua média.
+
+008
+escreva um programa que leia seu valor em metros e exiba convertido para centímetros milímetros.
+
+009
+faça um programa que leia um número inteiro e mostre na tela a sua tabuada.
+
+010
+crie um programa que leia quanto dinheiro uam pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+
+011
+faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m².
+
+012
+faça um algoritimo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
+
+013
+fça um algoritimo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento.
